@@ -4,6 +4,8 @@
 @{
 }
 @model List<ScholarHat.Models.CommentViewModel>
+<div>
+    <h2>Comments </h2>
 <ul>
     @foreach (var comment in Model)
     {
@@ -12,3 +14,4 @@
         <li> E-Mail Address : @comment.Email</li>
     }
 </ul>
+</div>

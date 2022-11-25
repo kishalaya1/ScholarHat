@@ -1,9 +1,18 @@
-﻿
+﻿@model ScholarHat.Models.PostViewModel
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Blog Post";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
+<h1>Blog post No  @Model.Id </h1>
+<div>
+    <div><b>@Model.Title </b></div>
+    <div> User : @Model.UserId</div>
+    <br />
+    <div>@Model.Body</div>
+    <hr />
 
-@await Component.InvokeAsync("Comments",new {id =1});
+
+</div>
+<hr />
+@await Component.InvokeAsync("Comments",new {id = Model.Id});
