@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\DotNetPractice projects\\dotnettricksDemo\\ScholarHat\\ScholarHat.csproj": {}
+    "J:\\DotNetPractice projects\\github\\ScholarHat\\ScholarHat.csproj": {}
   },
   "projects": {
-    "J:\\DotNetPractice projects\\dotnettricksDemo\\ScholarHat\\ScholarHat.csproj": {
+    "J:\\DotNetPractice projects\\github\\ScholarHat\\ScholarHat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\DotNetPractice projects\\dotnettricksDemo\\ScholarHat\\ScholarHat.csproj",
+        "projectUniqueName": "J:\\DotNetPractice projects\\github\\ScholarHat\\ScholarHat.csproj",
         "projectName": "ScholarHat",
-        "projectPath": "J:\\DotNetPractice projects\\dotnettricksDemo\\ScholarHat\\ScholarHat.csproj",
+        "projectPath": "J:\\DotNetPractice projects\\github\\ScholarHat\\ScholarHat.csproj",
         "packagesPath": "C:\\Users\\kishalaya\\.nuget\\packages\\",
-        "outputPath": "J:\\DotNetPractice projects\\dotnettricksDemo\\ScholarHat\\obj\\",
+        "outputPath": "J:\\DotNetPractice projects\\github\\ScholarHat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kishalaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

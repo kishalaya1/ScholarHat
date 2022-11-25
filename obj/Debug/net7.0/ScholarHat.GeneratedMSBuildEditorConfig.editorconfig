@@ -9,37 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ScholarHat
 build_property.RootNamespace = ScholarHat
-build_property.ProjectDir = J:\DotNetPractice projects\dotnettricksDemo\ScholarHat\
+build_property.ProjectDir = J:\DotNetPractice projects\github\ScholarHat\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = J:\DotNetPractice projects\dotnettricksDemo\ScholarHat
+build_property.MSBuildProjectDirectory = J:\DotNetPractice projects\github\ScholarHat
 build_property._RazorSourceGeneratorDebug = 
 
-[J:/DotNetPractice projects/dotnettricksDemo/ScholarHat/Views/Home/Index.cshtml]
+[J:/DotNetPractice projects/github/ScholarHat/Views/Components/_Comments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xfQ29tbWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/DotNetPractice projects/github/ScholarHat/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/DotNetPractice projects/dotnettricksDemo/ScholarHat/Views/Home/Privacy.cshtml]
+[J:/DotNetPractice projects/github/ScholarHat/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/DotNetPractice projects/dotnettricksDemo/ScholarHat/Views/Shared/Error.cshtml]
+[J:/DotNetPractice projects/github/ScholarHat/Views/Post/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/DotNetPractice projects/github/ScholarHat/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/DotNetPractice projects/dotnettricksDemo/ScholarHat/Views/Shared/_ValidationScriptsPartial.cshtml]
+[J:/DotNetPractice projects/github/ScholarHat/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/DotNetPractice projects/github/ScholarHat/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/DotNetPractice projects/github/ScholarHat/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/DotNetPractice projects/dotnettricksDemo/ScholarHat/Views/_ViewImports.cshtml]
+[J:/DotNetPractice projects/github/ScholarHat/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/DotNetPractice projects/dotnettricksDemo/ScholarHat/Views/_ViewStart.cshtml]
+[J:/DotNetPractice projects/github/ScholarHat/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[J:/DotNetPractice projects/dotnettricksDemo/ScholarHat/Views/Shared/_Layout.cshtml]
+[J:/DotNetPractice projects/github/ScholarHat/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bgw9ewu6gd
